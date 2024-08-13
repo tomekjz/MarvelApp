@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">capitalonetest</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="no_description_found">No description found</string>
+</resources>
